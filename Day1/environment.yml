@@ -1,0 +1,15 @@
+name: DSPy2025
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - numpy
+  - pandas
+  - seaborn
+  - pytorch
+  - scikit-image
+  - dash
+  - jupyterlab
+  - pip
+  - pip:
+    - openpyxl
