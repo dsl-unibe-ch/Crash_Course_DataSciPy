@@ -16,4 +16,6 @@ The topics covered include:
 
 ### Preparations
 
-Please download the four jupyter notebooks so you can work through them locally.
+Please download the four jupyter notebooks so you can work through them locally. You can also download the slides as pdf.
+
+Also make sure you have a working Python system, ideally in form of a conda environment such as prepared on day one of the course.
