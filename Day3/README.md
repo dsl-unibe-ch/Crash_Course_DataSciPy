@@ -9,7 +9,7 @@ After downloading and unzipping, you’ll typically use `survey_results_public.c
 
 ## Install
 
-Using pip (recommended):
+Using pip:
 
 ```bash
 python -m pip install --upgrade pandas seaborn matplotlib
