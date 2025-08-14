@@ -8,7 +8,7 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 Inter
 
 # Summary
 
-Main content is currently provided solely as interactive life discussion.
+Main content is currently provided solely as interactive live discussion.
 We look at a few of more commonly used mathematical concepts in Data Science, such as vector spaces, probability & distributions, frequency domain, and differential calculus. Specifically, we look at those form the perspective of Data Science, and how they can be used in practice to and how we can think of them in a more intuitive way.
 
 These notebooks are primarily for running the visualizations and the exercises.
