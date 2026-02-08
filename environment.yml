@@ -1,4 +1,4 @@
-name: DSPy2025
+name: DSPy2026
 channels:
   - conda-forge
 dependencies:
