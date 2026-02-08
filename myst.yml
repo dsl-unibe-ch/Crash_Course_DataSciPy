@@ -1,0 +1,54 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 358c2c73-e45e-4988-bfe1-13fbeccea87e
+  title: Crash course in Data Science with Python
+  # description:
+  # keywords: []
+  authors: Data Science Lab, University of Bern
+  github: https://github.com/dsl-unibe-ch/Crash_Course_DataSciPy
+  # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
+  toc:
+    - file: README.md
+    - title: Day1
+      children:
+        - file: Day1/README.md
+        - file: Day1/01-Notebooks.ipynb
+        - file: Day1/02-Variables.ipynb
+        - file: Day1/03-Functions_packages.ipynb
+        - file: Day1/04-Data_structures.ipynb
+        - file: Day1/05-File_handling.ipynb
+        - file: Day1/06-Flow_control.ipynb
+        - file: Day1/07-Classes.ipynb
+    - title: Day2
+      children:
+        - file: Day2/README.md
+        - file: Day2/01-Arrays.ipynb
+        - file: Day2/02-Basic_handling.ipynb
+        - file: Day2/03-Array_subsets.ipynb
+        - file: Day2/04-Dimensions.ipynb
+        - file: Day2/05-Minimal_plotting.ipynb
+    - title: Day3
+      children:
+        - file: Day3/README.md
+        - file: Day3/pandas_01_Intro.ipynb
+        - file: Day3/pandas_02_Data_Structures.ipynb
+        - file: Day3/pandas_03_Indexing.ipynb
+        - file: Day3/pandas_04_Filtering.ipynb
+        - file: Day3/pandas_05_Updating_Rows_and_Columns.ipynb
+        - file: Day3/pandas_06_Transformations.ipynb
+        - file: Day3/pandas_07_Cleaning_and_Casting.ipynb
+        - file: Day3/seaborn_08_Intro.ipynb
+    - title: Day4
+      children:
+        - file: Day4/01_vectors.ipynb
+        - file: Day4/02_distributions.ipynb
+        - file: Day4/03_frequency domain.ipynb
+        - file: Day4/04_differential calculus.ipynb
+        - file: Day4/README.md
+    
+site:
+  template: book-theme
+  # options:
+  #   favicon: favicon.ico
+  logo: illustrations/DSL_logo.png
